@@ -1,0 +1,1 @@
+This is Whitney's first git project!
